@@ -10,6 +10,7 @@ Welcome to the Golang Developer Roadmap! This repository, maintained by Hiroyuki
 - [Directory Structure](#directory-structure)
 - [Contribute](#contribute)
 - [License](#license)
+- [Contact](#contact)
 
 ## Introduction
 This open-source roadmap is intended for both beginners and intermediate developers who want to excel in Golang and apply their skills in real-world applications.
